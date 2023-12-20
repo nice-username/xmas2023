@@ -1,0 +1,4 @@
+([('xmas23',
+   '/Users/joseph/Desktop/Desktop - Joseph’s MacBook Pro/Python/elizabeth '
+   'xmas2023/dist/xmas23',
+   'EXECUTABLE')],)
