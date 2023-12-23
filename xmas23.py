@@ -36,7 +36,7 @@ window.title("lizMasonXmas2023")
 window.geometry("1024x1024")
 
 # Start with the first image in the slideshow
-img_index = 1
+img_index = 0
 photo = tk.PhotoImage(file=resource_path(f'img{img_index}.png'))
 image_label = tk.Label(window, image=photo)
 image_label.place(x=0, y=0)
